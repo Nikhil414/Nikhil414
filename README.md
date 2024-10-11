@@ -27,6 +27,9 @@
 
 ⚡ Fun fact: I love connecting with diverse people and learning from their experiences! 🙌
 
+ 📝 **My** [![Resume](https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=Resume)](nikhilairsang321@gmail.com)
+
+
 
 
 <img align="center" height="85px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
@@ -43,7 +46,7 @@
 
 👨‍💻 **Programming Languages**: Proficient in **Python**, and **SQL** for data manipulation and analysis.
 
-📈 **Business Intelligence**: Knowledgeable in creating dashboards and reports to support decision-making processes with tools like **Power BI** and **Tableau **.
+📈 **Business Intelligence**: Knowledgeable in creating dashboards and reports to support decision-making processes with tools like **Power BI** and **Tableau**.
 
 🔧 **Version Control & Collaboration**: Skilled in using **Git** and **GitHub** for version control and collaboration on projects.
 
@@ -70,7 +73,7 @@
 
 
 # 🌐 Connect With Me :
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010469838175) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-airsang/) [![gmail](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail)](nikhilairsang321@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-airsang/) [![gmail](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail)](nikhilairsang321@gmail.com)
 
 <div style="display: flex; justify-content: center;">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" style="max-width: 100%; height: auto;" alt="Another GIF" />
