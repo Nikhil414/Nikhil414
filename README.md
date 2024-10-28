@@ -27,7 +27,7 @@
 
 ⚡ Fun fact: I love connecting with diverse people and learning from their experiences! 🙌
 
- 📝 **My** [![Resume](https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=Resume)](nikhilairsang321@gmail.com)
+ 📝 **My** [![Resume](https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=Resume)](https://drive.google.com/file/d/1GkbtTDd6pPcryxfrdUX2LDIKV2yOCX8M/view)
 
 
 
@@ -73,7 +73,7 @@
 
 
 # 🌐 Connect With Me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-airsang/) [![gmail](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail)](nikhilairsang321@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-airsang/) [![gmail](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail)](mailto:nikhilairsang321@gmail.com)
 
 <div style="display: flex; justify-content: center;">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" style="max-width: 100%; height: auto;" alt="Another GIF" />
