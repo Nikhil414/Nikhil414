@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="1150" height="200" src="https://github.com/Nikhil414/Nikhil414/blob/main/DATA%20ANALYST.gif" alt="Data Analyst GIF" />
+  <img src="https://github.com/Nikhil414/Nikhil414/blob/main/DATA%20ANALYST.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 
 <div style="display: flex; justify-content: center;">
