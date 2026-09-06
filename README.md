@@ -16,18 +16,7 @@ I turn raw data into clear decisions—and build the pipelines that get it there
 
 <br />
 
-<a href="https://www.linkedin.com/in/nikhil-airsang/"><img src="https://img.shields.io/badge/LinkedIn-Connect-18212B?style=flat-square&amp;logo=linkedin&amp;logoColor=C8AD72&amp;labelColor=0D1117" alt="Connect on LinkedIn" /></a>
-&nbsp;
-<a href="mailto:nikhilairsang321@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-18212B?style=flat-square&amp;logo=gmail&amp;logoColor=C8AD72&amp;labelColor=0D1117" alt="Email Nikhil" /></a>
-&nbsp;
-<a href="https://niirmaangrowthhub.substack.com"><img src="https://img.shields.io/badge/Substack-Read_my_work-18212B?style=flat-square&amp;logo=substack&amp;logoColor=C8AD72&amp;labelColor=0D1117" alt="Read my newsletter" /></a>
-&nbsp;
-<!-- Verify that this link points to the current resume before publishing. -->
-<a href="https://drive.google.com/file/d/1GkbtTDd6pPcryxfrdUX2LDIKV2yOCX8M/view"><img src="https://img.shields.io/badge/Resume-View-18212B?style=flat-square&amp;logo=googledrive&amp;logoColor=C8AD72&amp;labelColor=0D1117" alt="View my resume" /></a>
-
-<br /><br />
-
-<sub>PUNE, INDIA &nbsp; / &nbsp; MCA GRADUATE &nbsp; / &nbsp; OPEN TO ANALYTICS ROLES</sub>
+<sub>MCA GRADUATE &nbsp; / &nbsp; OPEN TO ANALYTICS ROLES</sub>
 
 </div>
 
@@ -38,7 +27,7 @@ I turn raw data into clear decisions—and build the pipelines that get it there
 My work sits at the intersection of **data analysis, software, and automation**. I enjoy tracing a number back to its source, finding what doesn't add up, and making the result useful to someone making a decision.
 
 - **Building now:** [Agentic KPI Investigator](https://github.com/Nikhil414/agentic-kpi-investigator), an SQL-first finance pipeline with human approval for AI-generated findings.
-- **Foundation:** MCA from MES' IMCC, Pune · **7.58 CGPA**; a data analytics internship at **Technex, IIT (BHU) Varanasi**, working with Python and machine learning.
+- **Foundation:** MCA from MES' IMCC · **7.58 CGPA**; a data analytics internship at **Technex, IIT (BHU) Varanasi**, working with Python and machine learning.
 - **Beyond analytics:** grew a newsletter to **1,400+ subscribers organically**, while running **5 live production websites** and **an Android app**.
 - **Next chapter:** Data Analyst, Business Analyst, or Analytics Engineer roles.
 
@@ -104,14 +93,6 @@ An SQL-first finance analytics pipeline that detects KPI shortfalls and data-qua
 ---
 
 <div align="center">
-
-### Have a data problem worth untangling?
-
-Let's talk about SQL, dashboards, data pipelines, or thoughtful automation.
-
-**[LinkedIn](https://www.linkedin.com/in/nikhil-airsang/)** &nbsp; · &nbsp; **[Email](mailto:nikhilairsang321@gmail.com)** &nbsp; · &nbsp; **[Newsletter](https://niirmaangrowthhub.substack.com)**
-
-<br />
 
 <sub>FIND THE PATTERN. BUILD SOMETHING USEFUL.</sub>
 
