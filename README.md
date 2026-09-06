@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./cosmic-ink-banner.svg" width="100%" alt="A monochrome collage of clocks, equations, wireframe forms and mechanical drawings" />
+<img src="./final-ink-banner.svg" width="100%" alt="A monochrome collage of clocks, equations, wireframe forms and mechanical drawings" />
 
 <br />
 
@@ -8,7 +8,7 @@
 
 # Hey, I'm Nikhil.
 
-**Data Analyst · Analytics Engineer in training · Automation Builder**
+**Analytics Engineer · Automation Builder**
 
 I turn raw data into clear decisions—and build the pipelines that get it there.
 
@@ -33,62 +33,42 @@ My work sits at the intersection of **data analysis, software, and automation**.
 
 > My approach to AI: let it help explain the evidence. Keep database access and final decisions under human control.
 
-## The project I'm building
-
-### [Agentic KPI & Data-Quality Investigator ↗](https://github.com/Nikhil414/agentic-kpi-investigator)
-
-**From a suspicious metric to an explanation someone can review.**
-
-An SQL-first finance analytics pipeline that detects KPI shortfalls and data-quality issues, then uses Claude to explain the findings. The AI has **no database access**, and every finding carries `approval_required: yes`.
-
-| Stage | What happens |
-| :--- | :--- |
-| **01 · Prepare** | CSV data moves through SQL staging, quality checks, metrics, and investigations. |
-| **02 · Investigate** | A deterministic Python investigator examines the results with read-only access. |
-| **03 · Explain** | Claude produces a JSON explanation without touching the database. |
-| **04 · Review** | A human reviews and signs off on the finding. |
-
-**A real catch:** an order showed **$100 revenue**, **0% payment success**, and **no target baseline**. The pipeline flagged the inconsistency for human review instead of silently passing it to a dashboard.
-
-`SQL` · `DuckDB` · `PostgreSQL` · `Python` · `Claude API`
-
-[Explore the repository →](https://github.com/Nikhil414/agentic-kpi-investigator)
-
-## More work, different questions
-
-| Project | The question behind it | Tools |
-| :--- | :--- | :--- |
-| **[Agentic KPI Investigator](https://github.com/Nikhil414/agentic-kpi-investigator)** | Which finance metrics need investigation and human review? | SQL · DuckDB · PostgreSQL · Claude API |
-| **UEFA Football Data Analysis** | What can a multi-table sports dataset reveal through window functions and subqueries? | PostgreSQL · SQL |
-| **FIFA 19 Player Visualization** | How do 18,000+ players compare across 700+ clubs? | Tableau |
-| **TechWorks Salary Prediction** | How well can a regression pipeline predict salaries? | Python · Scikit-learn · MSE / R² |
-| **AquaFizz Sales & Compliance** | How can sales and compliance be brought into one multi-sheet dashboard? | Excel |
-
 ## My toolkit
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,nextjs,react,nodejs,git,vscode,anaconda&amp;theme=dark" alt="Python, PostgreSQL, MySQL, Next.js, React, Node.js, Git, VS Code, and Anaconda" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python" width="36" height="36" alt="Python" title="Python" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/mysql" width="36" height="36" alt="MySQL" title="MySQL" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/duckdb" width="36" height="36" alt="DuckDB" title="DuckDB" /> &nbsp;
+  <img src="https://api.iconify.design/logos:dbt.svg" width="36" height="36" alt="dbt" title="dbt" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/apacheairflow" width="36" height="36" alt="Apache Airflow" title="Apache Airflow" /> &nbsp;
+  <img src="https://api.iconify.design/carbon:data-structured.svg?color=%2361AFEF" width="36" height="36" alt="ETL" title="ETL" /> &nbsp;
+  <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="36" height="36" alt="Power BI" title="Power BI" /> &nbsp;
+  <img src="https://api.iconify.design/logos:tableau-icon.svg" width="36" height="36" alt="Tableau" title="Tableau" /> &nbsp;
+  <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="36" height="36" alt="Excel" title="Excel" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/supabase" width="36" height="36" alt="Supabase" title="Supabase" />
 </p>
 
-| I use it for | Tools |
-| :--- | :--- |
-| **Analysis & visualization** | Python · Pandas · NumPy · Scikit-learn · Matplotlib · Advanced Excel · Tableau · Power BI |
-| **Querying & data storage** | SQL · PostgreSQL · MySQL · DuckDB |
-| **AI & workflow automation** | Claude Code · Anthropic API · MCP with Figma and Notion · Google Apps Script |
-| **Web & app development** | React · Next.js · Node.js · Android workflows with Figma MCP and Claude Code · Razorpay |
-| **Marketing & growth** | Email pipelines · System.io · Waalaxy · Meta Ads analytics · SEO |
-| **Everyday tooling** | Git · GitHub · Linux · Jupyter · VS Code |
+<p align="left">
+  <img src="https://cdn.simpleicons.org/claude" width="36" height="36" alt="Claude" title="Claude" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/claudecode" width="36" height="36" alt="Claude Code" title="Claude Code" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/191919/ffffff" width="36" height="36" alt="Anthropic" title="Anthropic" /> &nbsp;
+  <img src="https://api.iconify.design/logos:openai-icon.svg" width="36" height="36" alt="OpenAI / ChatGPT / Codex" title="OpenAI / ChatGPT / Codex" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini" width="36" height="36" alt="Google Gemini" title="Google Gemini" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/google" width="36" height="36" alt="Antigravity" title="Antigravity" /> &nbsp;
+  <img src="https://api.iconify.design/lucide:bot.svg?color=%23E06C75" width="36" height="36" alt="Hermes Agent" title="Hermes Agent" />
+</p>
 
-<details>
-<summary><strong>Learning & certifications</strong></summary>
+<p align="left">
+  <img src="https://api.iconify.design/logos:aws.svg" width="42" height="36" alt="AWS" title="AWS" /> &nbsp;
+  <img src="https://api.iconify.design/logos:microsoft-azure.svg" width="36" height="36" alt="Azure" title="Azure" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/git" width="36" height="36" alt="Git" title="Git" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717/ffffff" width="36" height="36" alt="GitHub" title="GitHub" /> &nbsp;
+  <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="36" height="36" alt="VS Code" title="VS Code" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/tmux" width="36" height="36" alt="tmux" title="tmux" /> &nbsp;
+  <img src="https://api.iconify.design/lucide:layers.svg?color=%2398C379" width="36" height="36" alt="Herdr" title="Herdr" />
+</p>
 
-<br />
-
-- AWS Machine Learning
-- AWS DeepRacer — Driven by Reinforcement Learning
-- Continuing to build practical analytics engineering skills through SQL-first projects.
-
-</details>
 
 ---
 
@@ -97,3 +77,4 @@ An SQL-first finance analytics pipeline that detects KPI shortfalls and data-qua
 <sub>FIND THE PATTERN. BUILD SOMETHING USEFUL.</sub>
 
 </div>
+
