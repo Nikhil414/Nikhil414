@@ -55,18 +55,38 @@ My work sits at the intersection of **data analysis, software, and automation**.
   <img src="https://cdn.simpleicons.org/anthropic/191919/ffffff" width="36" height="36" alt="Anthropic" title="Anthropic" /> &nbsp;
   <img src="https://api.iconify.design/logos:openai-icon.svg" width="36" height="36" alt="OpenAI / ChatGPT / Codex" title="OpenAI / ChatGPT / Codex" /> &nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini" width="36" height="36" alt="Google Gemini" title="Google Gemini" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/google" width="36" height="36" alt="Antigravity" title="Antigravity" /> &nbsp;
+  <img src="./Google-Antigravity-Icon-Full-Color.png" width="36" height="36" alt="Antigravity" title="Antigravity" /> &nbsp;
   <img src="https://api.iconify.design/lucide:bot.svg?color=%23E06C75" width="36" height="36" alt="Hermes Agent" title="Hermes Agent" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hermesagent.svg" width="36" height="36" alt="Hermes Agent" title="Nous Research Hermes Agent" />
+  <img src="https://api.iconify.design/logos:linux-tux.svg" width="36" height="36" alt="Linux" title="Linux" />
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="36" height="36" alt="Google
+  Sheets" title="Google Sheets" />
+  <img src="https://api.iconify.design/logos:jupyter.svg" width="36" height="36" alt="Jupyter
+  Notebook" title="Jupyter Notebook" />
+  <img src="https://api.iconify.design/eos-icons:pipeline.svg?color=%23C8AD72" width="36" height="36"
+  alt="ETL Pipelines" title="ETL / Data Pipelines" />
+   <img src="https://api.iconify.design/carbon:chart-line-data.svg?color=%23C8AD72" width="36"
+  height="36" alt="Data Visualization" title="Data Visualization & BI" />
 </p>
 
 <p align="left">
-  <img src="https://api.iconify.design/logos:aws.svg" width="42" height="36" alt="AWS" title="AWS" /> &nbsp;
+  <!-- <img src="https://api.iconify.design/logos:aws.svg" width="42" height="36" alt="AWS" title="AWS" /> &nbsp; -->
   <img src="https://api.iconify.design/logos:microsoft-azure.svg" width="36" height="36" alt="Azure" title="Azure" /> &nbsp;
   <img src="https://cdn.simpleicons.org/git" width="36" height="36" alt="Git" title="Git" /> &nbsp;
   <img src="https://cdn.simpleicons.org/github/181717/ffffff" width="36" height="36" alt="GitHub" title="GitHub" /> &nbsp;
   <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="36" height="36" alt="VS Code" title="VS Code" /> &nbsp;
   <img src="https://cdn.simpleicons.org/tmux" width="36" height="36" alt="tmux" title="tmux" /> &nbsp;
   <img src="https://api.iconify.design/lucide:layers.svg?color=%2398C379" width="36" height="36" alt="Herdr" title="Herdr" />
+   <img src="https://api.iconify.design/logos:obsidian-icon.svg" width="36" height="36" alt="Obsidian"
+  title="Obsidian" />
+   <img src="https://api.iconify.design/logos:notion-icon.svg" width="36" height="36" alt="Notion"
+  title="Notion" />
+  <img src="https://cdn.simpleicons.org/perplexity/20B2AA" width="36" height="36" alt="Perplexity AI"
+  title="Perplexity AI" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" alt="Pandas"
+  title="Pandas" />
+   <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy" title="NumPy"
+  />
 </p>
 
 
