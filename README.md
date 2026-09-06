@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Nikhil414/Nikhil414/blob/main/DATA%20ANALYST.gif" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nikhil414/Nikhil414/main/cosmic-ink-banner.svg" alt="Banner" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />

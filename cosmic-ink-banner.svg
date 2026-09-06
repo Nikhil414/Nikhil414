@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="400" viewBox="0 0 1024 2048" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="title desc">
+  <title id="title">Cosmic eclipse ink reveal</title>
+  <desc id="desc">A cosmic eclipse landscape gradually revealed through an organic ink mask.</desc>
+  <defs>
+    <filter id="ink" x="-50%" y="-25%" width="200%" height="150%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="3" seed="7" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="120" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <mask id="reveal" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="2048">
+      <rect width="1024" height="2048" fill="black"/>
+      <circle cx="512" cy="850" r="1500" fill="white" filter="url(#ink)">
+        <animate attributeName="r" values="0;0;1500" keyTimes="0;.09;1" dur="11s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.22 .61 .36 1"/>
+      </circle>
+    </mask>
+    <style>
+      @media (prefers-reduced-motion: reduce) { #art { mask: none; } }
+    </style>
+  </defs>
+  <rect width="1024" height="2048" fill="#020202"/>
+  <image id="art" href="cosmic-eclipse.jpg" width="1024" height="2048" preserveAspectRatio="xMidYMid meet" mask="url(#reveal)"/>
+</svg>
