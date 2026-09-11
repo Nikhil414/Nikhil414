@@ -20,19 +20,6 @@ I turn raw data into clear decisions—and build the pipelines that get it there
 
 </div>
 
----
-
-## A little about me
-
-My work sits at the intersection of **data analysis, software, and automation**. I enjoy tracing a number back to its source, finding what doesn't add up, and making the result useful to someone making a decision.
-
-- **Building now:** [Agentic KPI Investigator](https://github.com/Nikhil414/agentic-kpi-investigator), an SQL-first finance pipeline with human approval for AI-generated findings.
-- **Foundation:** MCA from MES' IMCC · **7.58 CGPA**; a data analytics internship at **Technex, IIT (BHU) Varanasi**, working with Python and machine learning.
-- **Beyond analytics:** grew a newsletter to **1,400+ subscribers organically**, while running **5 live production websites** and **an Android app**.
-- **Next chapter:** Data Analyst, Business Analyst, or Analytics Engineer roles.
-
-> My approach to AI: let it help explain the evidence. Keep database access and final decisions under human control.
-
 ## My toolkit
 
 <p align="left">
