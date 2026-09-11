@@ -26,6 +26,9 @@ I turn raw data into clear decisions—and build the pipelines that get it there
   <img src="https://cdn.simpleicons.org/python" width="36" height="36" alt="Python" title="Python" /> &nbsp;
   <img src="https://cdn.simpleicons.org/postgresql" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
   <img src="https://cdn.simpleicons.org/mysql" width="36" height="36" alt="MySQL" title="MySQL" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/FF3621"
+       width="36" height="36"
+       alt="Databricks" title="Databricks" /> &nbsp;
   <img src="https://cdn.simpleicons.org/duckdb" width="36" height="36" alt="DuckDB" title="DuckDB" /> &nbsp;
   <img src="https://api.iconify.design/logos:dbt.svg" width="36" height="36" alt="dbt" title="dbt" /> &nbsp;
   <img src="https://cdn.simpleicons.org/apacheairflow" width="36" height="36" alt="Apache Airflow" title="Apache Airflow" /> &nbsp;
