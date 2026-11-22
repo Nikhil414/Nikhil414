@@ -30,12 +30,17 @@ I turn raw data into clear decisions—and build the pipelines that get it there
        width="36" height="36"
        alt="Databricks" title="Databricks" /> &nbsp;
   <img src="https://cdn.simpleicons.org/duckdb" width="36" height="36" alt="DuckDB" title="DuckDB" /> &nbsp;
-  <img src="https://api.iconify.design/logos:dbt.svg" width="36" height="36" alt="dbt" title="dbt" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/dbt-labs/dbt/ec7dee39f793aa4f7dd3dae37282cc87664813e4/etc/dbt-logo-full.svg" alt="dbt logo" width="100"/>
   <img src="https://cdn.simpleicons.org/apacheairflow" width="36" height="36" alt="Apache Airflow" title="Apache Airflow" /> &nbsp;
-  <img src="https://api.iconify.design/carbon:data-structured.svg?color=%2361AFEF" width="36" height="36" alt="ETL" title="ETL" /> &nbsp;
-  <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="36" height="36" alt="Power BI" title="Power BI" /> &nbsp;
-  <img src="https://api.iconify.design/logos:tableau-icon.svg" width="36" height="36" alt="Tableau" title="Tableau" /> &nbsp;
-  <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="36" height="36" alt="Excel" title="Excel" /> &nbsp;
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/0a01c7f8-d534-4353-bf8d-5cf8d557e3c3" />
+
+
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/c7c286dd-d394-47a0-864e-9977e41fba15" />
+
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/f51ec06e-d80e-4bf0-bf24-c3c4160a6cea" />
+
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/11fed2dc-b385-4ab8-bf8e-3761f68512ed" />
+
   <img src="https://cdn.simpleicons.org/supabase" width="36" height="36" alt="Supabase" title="Supabase" />
 </p>
 
@@ -43,20 +48,27 @@ I turn raw data into clear decisions—and build the pipelines that get it there
   <img src="https://cdn.simpleicons.org/claude" width="36" height="36" alt="Claude" title="Claude" /> &nbsp;
   <img src="https://cdn.simpleicons.org/claudecode" width="36" height="36" alt="Claude Code" title="Claude Code" /> &nbsp;
   <img src="https://cdn.simpleicons.org/anthropic/191919/ffffff" width="36" height="36" alt="Anthropic" title="Anthropic" /> &nbsp;
-  <img src="https://api.iconify.design/logos:openai-icon.svg" width="36" height="36" alt="OpenAI / ChatGPT / Codex" title="OpenAI / ChatGPT / Codex" /> &nbsp;
+  <img
+  src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg"
+  width="36"
+  height="36"
+  alt="OpenAI Codex"
+  title="OpenAI Codex"
+/>
   <img src="https://cdn.simpleicons.org/googlegemini" width="36" height="36" alt="Google Gemini" title="Google Gemini" /> &nbsp;
   <img src="./Google-Antigravity-Icon-Full-Color.png" width="36" height="36" alt="Antigravity" title="Antigravity" /> &nbsp;
   <img src="https://api.iconify.design/lucide:bot.svg?color=%23E06C75" width="36" height="36" alt="Hermes Agent" title="Hermes Agent" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hermesagent.svg" width="36" height="36" alt="Hermes Agent" title="Nous Research Hermes Agent" />
-  <img src="https://api.iconify.design/logos:linux-tux.svg" width="36" height="36" alt="Linux" title="Linux" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/d177ec6b-fb23-4d98-8675-f158587c9711" />
+
   <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="36" height="36" alt="Google
   Sheets" title="Google Sheets" />
-  <img src="https://api.iconify.design/logos:jupyter.svg" width="36" height="36" alt="Jupyter
-  Notebook" title="Jupyter Notebook" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/96f917c1-2ffc-4594-a67b-4764109c5f14" />
+
   <img src="https://api.iconify.design/eos-icons:pipeline.svg?color=%23C8AD72" width="36" height="36"
   alt="ETL Pipelines" title="ETL / Data Pipelines" />
-   <img src="https://api.iconify.design/carbon:chart-line-data.svg?color=%23C8AD72" width="36"
-  height="36" alt="Data Visualization" title="Data Visualization & BI" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/951e82f2-7631-478c-8278-94d7f7096e97" />
+
 </p>
 
 <p align="left">
@@ -66,11 +78,17 @@ I turn raw data into clear decisions—and build the pipelines that get it there
   <img src="https://cdn.simpleicons.org/github/181717/ffffff" width="36" height="36" alt="GitHub" title="GitHub" /> &nbsp;
   <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="36" height="36" alt="VS Code" title="VS Code" /> &nbsp;
   <img src="https://cdn.simpleicons.org/tmux" width="36" height="36" alt="tmux" title="tmux" /> &nbsp;
-  <img src="https://api.iconify.design/lucide:layers.svg?color=%2398C379" width="36" height="36" alt="Herdr" title="Herdr" />
-   <img src="https://api.iconify.design/logos:obsidian-icon.svg" width="36" height="36" alt="Obsidian"
-  title="Obsidian" />
-   <img src="https://api.iconify.design/logos:notion-icon.svg" width="36" height="36" alt="Notion"
-  title="Notion" />
+<img
+  src="https://raw.githubusercontent.com/herdrdev/herdr/master/assets/logo.png"
+  width="36"
+  height="36"
+  alt="Herdr"
+  title="Herdr terminal"
+/>
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/5993c7a4-e2b8-4c7d-976b-b59579dda286" />
+
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/4ee35d2d-dd39-41bc-adcd-72f783aa06af" />
+
   <img src="https://cdn.simpleicons.org/perplexity/20B2AA" width="36" height="36" alt="Perplexity AI"
   title="Perplexity AI" />
   <img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" alt="Pandas"
