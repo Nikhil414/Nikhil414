@@ -16,7 +16,6 @@ I turn raw data into clear decisions—and build the pipelines that get it there
 
 <br />
 
-<sub>MCA GRADUATE &nbsp; / &nbsp; OPEN TO ANALYTICS ROLES</sub>
 
 </div>
 
@@ -49,10 +48,13 @@ I turn raw data into clear decisions—and build the pipelines that get it there
   <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="36" height="36" alt="Google Sheets" title="Google Sheets" /> &nbsp;
   <img src="https://github.com/user-attachments/assets/96f917c1-2ffc-4594-a67b-4764109c5f14" width="36" height="36" alt="Tool icon" /> &nbsp;
   <img src="https://github.com/user-attachments/assets/951e82f2-7631-478c-8278-94d7f7096e97" width="36" height="36" alt="Tool icon" />
+  <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/ce1b4f82-b836-4efe-b570-9cd5443143b7" />
+
 </p>
 
 <p align="left">
   <!-- <img src="https://api.iconify.design/logos:aws.svg" width="42" height="36" alt="AWS" title="AWS" /> &nbsp; -->
+  
   <img src="https://github.com/user-attachments/assets/ca6c8403-6ab9-492d-a28a-9f2abaed85d4" width="36" height="36" alt="Tool icon" /> &nbsp;
   <img src="https://cdn.simpleicons.org/git" width="36" height="36" alt="Git" title="Git" /> &nbsp;
   <img src="https://cdn.simpleicons.org/github/181717/ffffff" width="36" height="36" alt="GitHub" title="GitHub" /> &nbsp;
@@ -64,6 +66,7 @@ I turn raw data into clear decisions—and build the pipelines that get it there
   <img src="https://cdn.simpleicons.org/perplexity/20B2AA" width="36" height="36" alt="Perplexity AI" title="Perplexity AI" /> &nbsp;
   <img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" alt="Pandas" title="Pandas" /> &nbsp;
   <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy" title="NumPy" />
+  
 </p>
 
 ---
